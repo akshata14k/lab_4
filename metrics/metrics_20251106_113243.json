@@ -1,0 +1,7 @@
+{
+  "timestamp": "20251106_113243",
+  "task": "wine_multiclass",
+  "accuracy": 1.0,
+  "f1_macro": 1.0,
+  "n_classes": 3
+}
